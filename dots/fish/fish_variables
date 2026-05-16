@@ -1,0 +1,35 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR __fish_initialized:4300
+SETUVAR __fish_webconfig_theme_notification:set\x2dtheme\x2dv1\x2d\x231
+SETUVAR _fisher_jorgebucaran_2F_fisher_files:\x7e/\x2econfig/fish/functions/fisher\x2efish\x1e\x7e/\x2econfig/fish/completions/fisher\x2efish
+SETUVAR _fisher_plugins:jorgebucaran/fisher
+SETUVAR _fisher_upgraded_to_4_4:\x1d
+SETUVAR fish_color_autosuggestion:777777\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_color_cancel:\x2dr\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_color_command:ffffff\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_color_comment:bcbcbc\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_color_cwd:green\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_color_cwd_root:red\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_color_end:949494\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_color_error:585858\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_color_escape:00a6b2\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_color_history_current:\x2d\x2dbold\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_color_host:\x2d\x2dreset\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_color_host_remote:yellow\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_color_normal:\x2d\x2dreset\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_color_operator:00a6b2\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_color_param:d7d7d7\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_color_quote:a8a8a8\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_color_redirection:808080\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_color_search_match:white\x1e\x2d\x2dbackground\x3dbrblack\x1e\x2d\x2dbold\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_color_selection:white\x1e\x2d\x2dbackground\x3dbrblack\x1e\x2d\x2dbold\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_color_status:red\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_color_user:brgreen\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_color_valid_path:\x2d\x2dunderline\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_greeting:
+SETUVAR fish_pager_color_completion:\x2d\x2dreset\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_pager_color_description:B3A06D\x1eyellow\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_pager_color_prefix:\x2d\x2dbold\x1e\x2d\x2dunderline\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan\x1e\x2d\x2dbold\x1e\x2d\x2dtheme\x3dmono\x2dsmoke
+SETUVAR fish_pager_color_selected_background:\x2d\x2dbackground\x3dbrblack\x1e\x2d\x2dtheme\x3dmono\x2dsmoke

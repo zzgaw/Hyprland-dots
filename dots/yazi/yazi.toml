@@ -1,0 +1,24 @@
+[mgr]
+
+show_hidden=true
+
+[opener]
+
+edit = [
+    { run = 'nvim "$@"', block = true, desc = "Neovim" }
+]
+
+open = [
+    { run = 'xdg-open "$@"', orphan = true, desc = "Open" }
+]
+
+[open]
+rules = [
+    { mime = "text/*", use = "edit" },
+
+    { mime = "application/json", use = "edit" },
+    { mime = "application/xml", use = "edit" },
+    { mime = "application/javascript", use = "edit" },
+
+    { mime = "*", use = "open" },
+]
